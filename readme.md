@@ -1,0 +1,1 @@
+Added a snapshot of my excalidarw board on github as well. For every code you can refer to the picture and understand what are we doing.
